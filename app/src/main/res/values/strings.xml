@@ -1,0 +1,121 @@
+<resources>
+    <string name="app_name">thai-mini-chicken</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_program_main">ProgramMainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_add_program">AddProgramActivity</string>
+    <string name="title_activity_container">ContainerActivity</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="title_activity_detail_notification">DetailNotificationActivity</string>
+    <string name="title_activity_setting">SettingActivity</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_activity_test_login">TestLogin</string>
+    <string name="title_activity_test_auth">TestAuthActivity</string>
+    <string name="title_activity_add_noti_card">AddNotiCardActivity</string>
+    <string name="title_activity_noti_detail">NotiDetailActivity</string>
+    <string name="title_activity_custom_plan">CustomPlanActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_register_info">RegisterInfoActivity</string>
+    <string name="title_activity_knowledge">KnowledgeActivity</string>
+    <string name="title_activity_help">HelpActivity</string>
+
+    <string name="help_menu_title">Help menu</string>
+    <string name="help_menu_register">Register</string>
+    <string name="help_menu_manual">Manual</string>
+    <string name="help_menu_forget_password">Forget password</string>
+    <string name="help_menu_contact_admin">Contact admin</string>
+
+    <string name="color_menu_title">Choose theme color</string>
+    <string name="color_menu_amber">amber (Default)</string>
+    <string name="color_menu_red">Red</string>
+    <string name="color_menu_light_green">Light green</string>
+    <string name="color_menu_light_blue">Light blue</string>
+    <string name="color_munu_purple">Purple</string>
+
+    <string name="google_login_text">Login with Google</string>
+
+    <string name="login_activity_title">TNC Manager</string>
+    <string name="email_card_title">"By email"</string>
+
+    <string name="email_card_register_button">REGISTER</string>
+    <string name="email_card_email_edittext">Email</string>
+    <string name="email_card_password_edittext">Password</string>
+    <string name="email_card_signin_button">SIGH IN</string>
+    <string name="email_card_help_button">HELP</string>
+
+    <string name="dialog_message_text_default">Messages</string>
+    <string name="dialog_title_text_default">Title</string>
+    <string name="dialog_negative_text_default">Cancel</string>
+    <string name="dialog_positive_text_default">OK</string>
+
+    <string name="dialog_progress_text_default">Please wait..</string>
+    <string name="dialog_upload_message">Uploading..</string>
+
+    <string name="dialog_saving_message">Saving..</string>
+
+
+    <string name="message_data_not_complete">Field is empty</string>
+    <string name="ok_message_response">OK</string>
+    <string name="yes_message_response">Yes</string>
+    <string name="skip_message_response">Skip</string>
+
+    <string name="cancel_message_response">Cancel</string>
+    <string name="close_message_response">Close</string>
+
+    <string name="password_lower_message">Password lower 6 character</string>
+
+    <string name="request_has_cancel">Request has cancel</string>
+
+    <string name="email_not_found_message">Email not found</string>
+    <string name="internet_not_found_message">Please connect internet</string>
+
+    <string name="reset_email_send_complete_message">Reset email send complete</string>
+    <string name="email_cant_register_message">Email can not register</string>
+
+    <string name="error_message">Error</string>
+
+    <string name="email_message">Email</string>
+    <string name="registed_email_message">Your email</string>
+
+    <string name="forget_password_message">Forget</string>
+    <string name="wrong_password_message">Password incorrect</string>
+
+    <string name="saved_message">Save successful</string>
+    <string name="register_successful_message">Register successful</string>
+
+
+    <string name="register_message">Register</string>
+    <string name="sign_out_message">Sign out successful</string>
+
+
+    <string name="alert_message">Alert</string>
+    <string name="inital_information_question_message">Your account is not initial information, Do you want insert?</string>
+
+    <string name="upload_complete_message">Upload completed</string>
+
+
+    <string name="choose_image_from_message">Choose image from</string>
+    <string name="take_picture_from_message">Take picture from</string>
+
+    <string name="request_permission_message">Request permission</string>
+    <string name="open_camera_message">Open camera</string>
+    <string name="choose_image_from_gallery_message">Choose image from gallery</string>
+    <string name="explanation_message">Explanation</string>
+
+    <string name="open_setting_message">Open settings</string>
+
+    <string name="permission_skiped_message">Because you has press the button "Do not show again" in permission dialog, If you would like to get permission, Please "Go Settings" and press the button "App permission" and then take permission do you want</string>
+    <string name="explanation_of_camera_permission_message">If would like to open camera, You can press "Take permission" and then press "Accept"</string>
+    <string name="explanation_of_gallery_permission_message">If would like to open gallery, You can press "Take permission" and then press "Accept"</string>
+
+    <string name="exit_from_application_message">"Are you want exit?"</string>
+    <string name="exit_message">Exit</string>
+
+</resources>
