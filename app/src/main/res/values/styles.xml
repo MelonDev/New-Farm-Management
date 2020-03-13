@@ -7,6 +7,7 @@
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
         <item name="android:fontFamily">@font/sukhumvit_text</item>
+        <item name="drawerArrowStyle">@style/MyDrawerArrowToggle</item>
     </style>
 
     <style name="AppTheme.NoActionBar">
@@ -15,7 +16,7 @@
     </style>
 
     <style name="TabLayoutStyle" parent="Base.Widget.Design.TabLayout">
-        <item name="android:textSize">18dp</item>
+        <item name="android:textSize">16dp</item>
         <item name="android:fontFamily">@font/sukhumvit_bold</item>
         <item name="android:textAllCaps">true</item>
         <item name="android:textStyle">normal</item>
@@ -43,5 +44,9 @@
     <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
 
     <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="MyDrawerArrowToggle" parent="Widget.AppCompat.DrawerArrowToggle">
+        <item name="color">@color/colorWhite</item>
+    </style>
 
 </resources>

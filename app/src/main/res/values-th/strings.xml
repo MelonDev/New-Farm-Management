@@ -114,4 +114,62 @@
     <string name="exit_from_application_message">"คุณต้องการจะออกจากแอปหรือไม่?"</string>
     <string name="exit_message">ออก</string>
 
+    <string name="tab_program_text">รายการ</string>
+    <string name="tab_notification_text">แจ้งเตือน</string>
+    <string name="tab_history_text">ประวัติ</string>
+
+    <string name="not_found_data">ไม่พบข้อมูล</string>
+    <string name="you_can_not_access">คุณไม่ได้รับสิทธิ์เข้าถึง</string>
+
+    <string name="week">สัปดาห์</string>
+    <string name="day">วัน</string>
+
+    <string name="not_date_accerpt">ยังไม่ถึงวันรับเข้า</string>
+
+
+    <string name="to_do_list">รายการที่ต้องทำ</string>
+    <string name="task">รายการ</string>
+    <string name="minus_year">0</string>
+
+    <string name="today">วันนี้</string>
+    <string name="yesterday">เมื่อวาน</string>
+
+    <string name="program_title">โปรแกรมการจัดการ</string>
+    <string name="data_admission">วันที่รับเข้า</string>
+    <string name="current_chicken_age">อายุไก่ปัจจุบัน</string>
+    <string name="farming_objective">วัตถุประสงค์การเลี้ยง</string>
+
+    <string name="breeder_chicken">ไก่พ่อ-แม่พันธุ์</string>
+    <string name="sell_chicks">ขายลูกไก่</string>
+    <string name="chicken_meat">ไก่เนื้อ</string>
+    <string name="contest">ประกวด</string>
+    <string name="other">อื่นๆ</string>
+
+    <string name="january">มกราคม</string>
+    <string name="february">กุมภาพันธ์</string>
+    <string name="march">มีนาคม</string>
+    <string name="april">เมษายน</string>
+    <string name="may">พฤษภาคม</string>
+    <string name="june">มิถุนายน</string>
+    <string name="july">กรกฎาคม</string>
+    <string name="august">สิงหาคม</string>
+    <string name="september">กันยายน</string>
+    <string name="october">ตุลาคม</string>
+    <string name="november">พฤศจิกายน</string>
+    <string name="december">ธันวาคม</string>
+
+    <string name="liver_cage">กรงตับ</string>
+    <string name="prison_cell">ขังคอก</string>
+    <string name="release">ปล่อยอิสระ</string>
+    <string name="semi">กึ่งขังกึ่งปล่อย</string>
+    <string name="organic">อินทรีย์</string>
+
+    <string name="vaccination">ฉีดวัคซีน</string>
+    <string name="give_the_light">ให้แสงสว่าง</string>
+    <string name="cut_the_mouth">ตัดปาก</string>
+    <string name="parasite_infection">ถ่ายพยาธิ</string>
+
+
+
+
 </resources>

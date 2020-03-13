@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/title_item_layout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <RelativeLayout
+        android:layout_width="@dimen/noti_card_width"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true">
+
+        <TextView
+            android:id="@+id/title_item_title_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="26dp"
+            android:layout_marginTop="3dp"
+            android:layout_marginBottom="3dp"
+            android:clickable="false"
+            android:fontFamily="@font/sukhumvit_bold"
+            android:text="Title"
+            android:textColor="@color/colorText"
+            android:textSize="26dp"
+            android:visibility="visible" />
+
+    </RelativeLayout>
+
+</RelativeLayout>

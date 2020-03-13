@@ -11,8 +11,19 @@
 
     <color name="colorText">#939393</color>
     <color name="colorTabInActiveText">#99ffffff</color>
+    <color name="colorTabIndicator">#FFFFFF</color>
+
+    <color name="colorOpposite">#65000000</color>
 
     <color name="colorCustomButtonDisable">#D5D5D5</color>
+
+    <color name="colorBackground">#EDEDED</color>
+    <color name="colorSubBackground">#FFFFFF</color>
+
+    <color name="colorSubBackgroundClick">#D8D8D8</color>
+
+
+    <color name="colorOnClickBackground">#EFEFEF</color>
 
 
     <color name="colorStatusBarTran">#3c000000</color>
@@ -23,13 +34,18 @@
     <color name="colorRed">#f44336</color>
     <color name="colorAmber">#FFC107</color>
     <color name="colorLightGreen">#8bc34a</color>
-    <color name="colorLightBlue">#03a9f4</color>
+    <color name="colorLightBlue">#2196F3</color>
     <color name="colorDeepPurple">#673ab7</color>
 
     <color name="colorRedDark">#d32f2f</color>
     <color name="colorAmberDark">#FFA000</color>
     <color name="colorLightGreenDark">#689f38</color>
-    <color name="colorLightBlueDark">#0288d1</color>
+    <color name="colorLightBlueDark">#1976D2</color>
     <color name="colorDeepPurpleDark">#512da8</color>
+
+    <color name="colorInActiveTitle">#939393</color>
+    <color name="colorInActiveIconLayout">#EDEDED</color>
+    <color name="colorInActiveIconImage">#939393</color>
+
 
 </resources>

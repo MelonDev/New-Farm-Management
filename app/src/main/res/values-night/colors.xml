@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFECB3</color>
+    <color name="colorPrimaryDark">#ffe0a3</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorSkyBlue">#62D0D5</color>
+
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorRedP">#ffafa9</color>
+    <color name="colorBlack">#000000</color>
+
+    <color name="colorText">#ffffff</color>
+    <color name="colorTabInActiveText">#99000000</color>
+    <color name="colorTabIndicator">#FFAB91</color>
+
+    <color name="colorOpposite">#65FFFFFF</color>
+
+    <color name="colorCustomButtonDisable">#D5D5D5</color>
+
+    <color name="colorBackground">#121212</color>
+    <color name="colorSubBackground">#313131</color>
+
+    <color name="colorOnClickBackground">#515151</color>
+
+    <color name="colorSubBackgroundClick">#545454</color>
+
+
+    <color name="colorStatusBarTran">#3c000000</color>
+
+    <color name="colorStatusBarOverlay">#3c000000</color>
+    <color name="colorLightStatusBarOverlay">#e7e7e7</color>
+
+    <color name="colorRed">#EF9A9A</color>
+    <color name="colorAmber">#FFECB3</color>
+    <color name="colorLightGreen">#C5E1A5</color>
+    <color name="colorLightBlue">#90CAF9</color>
+    <color name="colorDeepPurple">#B39DDB</color>
+
+    <color name="colorRedDark">#E57373</color>
+    <color name="colorAmberDark">#ffe0a3</color>
+    <color name="colorLightGreenDark">#AED581</color>
+    <color name="colorLightBlueDark">#64B5F6</color>
+    <color name="colorDeepPurpleDark">#9575CD</color>
+
+    <color name="colorInActiveTitle">#FFFFFF</color>
+    <color name="colorInActiveIconLayout">#121212</color>
+    <color name="colorInActiveIconImage">#FFFFFF</color>
+
+</resources>

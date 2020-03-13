@@ -118,4 +118,61 @@
     <string name="exit_from_application_message">"Are you want exit?"</string>
     <string name="exit_message">Exit</string>
 
+    <string name="tab_program_text">Programs</string>
+    <string name="tab_notification_text">Notification</string>
+    <string name="tab_history_text">History</string>
+
+    <string name="not_found_data">Not found</string>
+    <string name="you_can_not_access">You can\'t access to Database</string>
+
+    <string name="week">Week</string>
+    <string name="day">Day</string>
+
+    <string name="not_date_accerpt">Not yet date to accept</string>
+
+    <string name="to_do_list">To-do :</string>
+    <string name="task">Task</string>
+    <string name="minus_year">543</string>
+
+
+    <string name="today">Today</string>
+    <string name="yesterday">Yesterday</string>
+
+    <string name="program_title">Management Program</string>
+    <string name="data_admission">Date of admission</string>
+    <string name="current_chicken_age">Current chicken age</string>
+    <string name="farming_objective">Farming objectives</string>
+
+    <string name="breeder_chicken">Breeder chicken</string>
+    <string name="sell_chicks">Sell chicks</string>
+    <string name="chicken_meat">Chicken meat</string>
+    <string name="contest">Contest</string>
+    <string name="other">Other</string>
+
+    <string name="january">January</string>
+    <string name="february">February</string>
+    <string name="march">March</string>
+    <string name="april">April</string>
+    <string name="may">May</string>
+    <string name="june">June</string>
+    <string name="july">July</string>
+    <string name="august">August</string>
+    <string name="september">September</string>
+    <string name="october">October</string>
+    <string name="november">November</string>
+    <string name="december">December</string>
+
+    <string name="liver_cage">Liver cage</string>
+    <string name="prison_cell">Prison cell</string>
+    <string name="release">Release</string>
+    <string name="semi">Semi imprisoned, semi released</string>
+    <string name="organic">Organic</string>
+
+    <string name="vaccination">Vaccination</string>
+    <string name="give_the_light">Give the light</string>
+    <string name="cut_the_mouth">Cut the mouth</string>
+    <string name="parasite_infection">Parasite Infection</string>
+
+
+
 </resources>

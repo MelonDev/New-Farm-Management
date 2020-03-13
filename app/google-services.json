@@ -68,6 +68,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "562602916596-i2d2n9lbeqc3vv5s8ngs2cber126tgem.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "th.ac.up.melondev.new_farm_management",
+            "certificate_hash": "0aaf6882cde7bfd519534ae049dd205fb720b61c"
+          }
+        },
+        {
           "client_id": "562602916596-9unst58a54i3i3levruhbc70v9eaqbng.apps.googleusercontent.com",
           "client_type": 3
         }

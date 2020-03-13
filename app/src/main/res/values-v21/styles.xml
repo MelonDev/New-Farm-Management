@@ -33,13 +33,6 @@
         <item name="windowNoTitle">true</item>
     </style>
 
-    <style name="TabLayoutStyle" parent="Base.Widget.Design.TabLayout">
-        <item name="android:textSize">20dp</item>
-        <item name="android:fontFamily">@font/sukhumvit_medium</item>
-        <item name="android:textAllCaps">true</item>
-        <item name="android:textStyle">normal</item>
-    </style>
-
     <style name="MelonTheme" parent="Theme.AppCompat.Light.DarkActionBar">
         <item name="windowActionBar">false</item>
         <item name="windowNoTitle">true</item>
@@ -131,7 +124,7 @@
     </style>
 
     <style name="TitleTabStyle">
-        <item name="android:textSize">22dp</item>
+        <item name="android:textSize">18dp</item>
         <item name="android:textColor">@color/colorWhite</item>
         <item name="android:fontFamily">@font/sukhumvit_bold</item>
     </style>

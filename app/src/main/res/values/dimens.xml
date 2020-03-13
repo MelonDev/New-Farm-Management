@@ -15,10 +15,13 @@
     <dimen name="noti_card_width">@dimen/match_parent</dimen>
     <dimen name="noti_date_width">@dimen/match_parent</dimen>
 
-    <integer name="dialog_positive_text_button">50</integer>
-    <integer name="dialog_message_text">60</integer>
+    <integer name="dialog_winth">7</integer>
+
+    <integer name="dialog_positive_text_button">45</integer>
+    <integer name="dialog_message_text">50</integer>
     <integer name="dialog_message_height">250</integer>
-    <integer name="dialog_positive_button_height">70</integer>
+    <integer name="dialog_positive_button_height">130</integer>
+
 
 
 </resources>
